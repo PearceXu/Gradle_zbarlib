@@ -1,4 +1,0 @@
-#Fri Mar 01 15:58:23 CST 2019
-base.0=D\:\\workspace\\git\\thirdpartsdk\\Gradle_zbarlib\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
-path.0=classes.dex
-renamed.0=classes.dex
