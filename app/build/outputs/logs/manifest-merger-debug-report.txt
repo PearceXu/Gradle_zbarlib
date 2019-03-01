@@ -1,0 +1,278 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:2:1-103:12
+INJECTED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:2:1-103:12
+INJECTED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:2:1-103:12
+INJECTED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:2:1-103:12
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\1f132883b55f918cdda6e3c27dfde069\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\7cf738c654fb58d8d28f0ab72c030d6d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\7dfc8dd81789916f051bae3ebcf83faa\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\791f0d05a4b6b381dc6b7402ca69a0f4\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\9ad1bc5c044b7036179fadd38e06fbb0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\3a50749f5fd5932711c4b15e94e10162\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\c90a9b65378f29fa125ffd16ea3ce7e5\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\9fdefb28e3054c5bf5855327ccf71d9c\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\a20942d8ed1d1b1497c0dcec166fa0ec\AndroidManifest.xml:17:1-27:12
+INJECTED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:2:1-103:12
+INJECTED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:2:1-103:12
+INJECTED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:2:1-103:12
+	package
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:2:1-103:12
+		INJECTED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:2:1-103:12
+		INJECTED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:8:22-62
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:13:22-68
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:16:5-69
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:16:22-66
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:18:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:20:5-70
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:20:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:21:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:23:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:31:5-67
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:31:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:33:5-79
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:33:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:35:5-76
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:35:22-73
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:37:5-70
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:37:19-67
+uses-feature#android.hardware.camera
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:38:5-60
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:38:19-57
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:40:5-73
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:40:22-70
+uses-permission#android.permission.READ_OWNER_DATA
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:41:5-74
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:41:22-71
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:42:5-79
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:42:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:43:5-76
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:43:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:44:5-68
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:44:22-65
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:47:5-68
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:47:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:49:5-74
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:49:22-71
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:52:5-84
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:52:22-81
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:53:5-78
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:53:22-75
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:54:5-75
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:54:22-72
+uses-permission#android.permission.VIBRATE
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:55:5-66
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:55:22-63
+uses-permission#android.permission.FLASHLIGHT
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:56:5-69
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:56:22-66
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:60:5-71
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:60:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:61:5-74
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:61:22-71
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:62:5-74
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:62:22-71
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:63:5-80
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:63:22-77
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:64:5-85
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:64:22-82
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:65:5-75
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:65:22-72
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:66:5-68
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:66:22-65
+uses-permission#android.permission.READ_LOGS
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:70:5-68
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:70:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:74:5-81
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:74:22-78
+uses-permission#android.permission.ACCESS_DOWNLOAD_MANAGER
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:75:5-82
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:75:22-79
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:76:5-88
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:76:22-85
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:77:5-75
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:77:22-72
+application
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:83:5-101:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\1f132883b55f918cdda6e3c27dfde069\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\1f132883b55f918cdda6e3c27dfde069\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\7cf738c654fb58d8d28f0ab72c030d6d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\7cf738c654fb58d8d28f0ab72c030d6d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\7dfc8dd81789916f051bae3ebcf83faa\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\7dfc8dd81789916f051bae3ebcf83faa\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\791f0d05a4b6b381dc6b7402ca69a0f4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\791f0d05a4b6b381dc6b7402ca69a0f4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\9ad1bc5c044b7036179fadd38e06fbb0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\9ad1bc5c044b7036179fadd38e06fbb0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\3a50749f5fd5932711c4b15e94e10162\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\3a50749f5fd5932711c4b15e94e10162\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\c90a9b65378f29fa125ffd16ea3ce7e5\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\c90a9b65378f29fa125ffd16ea3ce7e5\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\9fdefb28e3054c5bf5855327ccf71d9c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\9fdefb28e3054c5bf5855327ccf71d9c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\a20942d8ed1d1b1497c0dcec166fa0ec\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\a20942d8ed1d1b1497c0dcec166fa0ec\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:87:9-35
+	android:label
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:86:9-41
+	android:icon
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:85:9-43
+	android:allowBackup
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:84:9-35
+	android:theme
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:88:9-40
+activity#com.yyx_yu.as_zbar.MainActivity
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:92:9-98:20
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:92:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:93:13-97:29
+action#android.intent.action.MAIN
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:94:17-69
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:94:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:96:17-77
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:96:27-74
+activity#com.yyx_yu.as_zbar.CameraTestActivity
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:99:9-55
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:99:19-53
+activity#com.yyx_yu.as_zbar.permission.PermissionsActivity
+ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:100:9-67
+	android:name
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml:100:19-65
+uses-sdk
+INJECTED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml
+INJECTED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\1f132883b55f918cdda6e3c27dfde069\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\1f132883b55f918cdda6e3c27dfde069\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\7cf738c654fb58d8d28f0ab72c030d6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\7cf738c654fb58d8d28f0ab72c030d6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\7dfc8dd81789916f051bae3ebcf83faa\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\7dfc8dd81789916f051bae3ebcf83faa\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\791f0d05a4b6b381dc6b7402ca69a0f4\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\791f0d05a4b6b381dc6b7402ca69a0f4\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\9ad1bc5c044b7036179fadd38e06fbb0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\9ad1bc5c044b7036179fadd38e06fbb0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\3a50749f5fd5932711c4b15e94e10162\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\3a50749f5fd5932711c4b15e94e10162\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\c90a9b65378f29fa125ffd16ea3ce7e5\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\c90a9b65378f29fa125ffd16ea3ce7e5\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\9fdefb28e3054c5bf5855327ccf71d9c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\9fdefb28e3054c5bf5855327ccf71d9c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\a20942d8ed1d1b1497c0dcec166fa0ec\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\a20942d8ed1d1b1497c0dcec166fa0ec\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml
+INJECTED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] C:\Users\xubp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\1f132883b55f918cdda6e3c27dfde069\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml
+		ADDED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\git\thirdpartsdk\Gradle_zbarlib\app\src\main\AndroidManifest.xml

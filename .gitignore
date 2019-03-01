@@ -1,0 +1,17 @@
+*.iml
+.gradle
+/local.properties
+/.idea/*
+
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.idea/codeStyles/Project.xml
+gradlew*
+gradle
+
+
+app/src/main/jniLibs/x86/libiconv.so
+app/src/main/jniLibs/x86/libscaninit.so
+app/src/main/jniLibs/x86/libsunmiscan.so
